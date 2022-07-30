@@ -1,0 +1,14 @@
+.post-date{
+    background-color: #f4f4f4;
+    padding: 4px;
+    margin: 3px 0;
+    display: block;
+}
+
+.post-thumb {
+    width: 100%;
+}
+
+.cat-delete {
+    display: inline;
+}
