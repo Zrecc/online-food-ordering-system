@@ -3,11 +3,11 @@ A simple web application that contains CRUD function and is built by using CodeI
 
 This web application is designed to have three types of users and they have some different functions.
 
-Visitor
+Visitor:
 They can view food category, food, register an account, and log in
 
-Registered customer
+Registered customer:
 After they log in, they can view food categories, food, add food to the cart, checkout, edit profile, and logout
 
-Admin
+Admin:
 After the admin login, they can manage food categories, food, orders made by the customer, and logout
